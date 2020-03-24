@@ -1,1 +1,24 @@
+body {  
+  position: relative; 
+}
 
+#about {
+  padding-top:50px;
+  height:700px;
+  color: #fff;
+  background-color: #1E88E5;
+}
+
+#project {
+  padding-top:50px;
+  height:700px;
+  color: #fff;
+  background-color: #673ab7;
+}
+
+#contact {
+  padding-top:50px;
+  height:700px;
+  color:#fff;
+  background-color:#ff9800;
+}
