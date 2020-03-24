@@ -2,23 +2,74 @@ body {
   position: relative; 
 }
 
+.navbar-nav li a{
+	font-weight: bold;
+}
+
 #about {
-  padding-top:50px;
-  height:700px;
+  padding-top: 50px;
+  height: 700px;
   color: #fff;
   background-color: #0B3C66;
 }
 
+.about-content {
+	text-align: center;
+	padding-top: 100px;
+}
+
+.about-content .intro {
+	font-size: 60px;
+}
+
+.about-content .role {
+	font-size: 40px;
+	padding-bottom: 50px;
+}
+
+.about-content .detail {
+	font-size: 20px;
+}
+
 #project {
-  padding-top:50px;
-  height:700px;
-  color: #fff;
-  background-color: #673ab7;
+  padding-top: 50px;
+  height: 700px;
+  color: #212529;
+  background-color: #eee;
+}
+
+.project-content .title {
+	text-align: center;
+	padding-top: 50px;
+}
+
+.project-content .item {
+	padding: 50px;
 }
 
 #contact {
-  padding-top:50px;
-  height:700px;
-  color:#fff;
-  background-color:#ff9800;
+  padding-top: 50px;
+  height: 700px;
+  color: #fff;
+  background-color: #343a40;
 }
+
+.contact-content .title {
+	text-align: center;
+	padding-top: 50px;
+}
+
+.contact-content .item {
+	text-align: center;
+	padding: 50px;
+}
+
+.next-content {
+	text-align: center;
+	padding-top: 50px;
+}
+
+.next-content a:hover {
+	opacity: 0.5;
+}
+
