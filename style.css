@@ -48,6 +48,9 @@ body {
   padding: 20px;
   margin-bottom: 30px;
   border: solid 1px lightgrey;
+}
+
+.project-content .detail {
   text-align: justify;
 }
 
