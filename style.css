@@ -33,18 +33,27 @@ body {
 
 #project {
   padding-top: 50px;
-  height: 700px;
+  height: auto;
   color: #212529;
   background-color: #eee;
+}
+
+.project-content {
+	padding-left: 50px;
+	padding-right: 50px;
 }
 
 .project-content .title {
 	text-align: center;
 	padding-top: 50px;
+	padding-bottom: 50px;
 }
 
 .project-content .item {
-	padding: 50px;
+	padding: 20px;
+	margin-bottom: 30px;
+	border: solid 1px lightgrey;
+	text-align: justify;
 }
 
 #contact {
@@ -67,6 +76,7 @@ body {
 .next-content {
 	text-align: center;
 	padding-top: 50px;
+	padding-bottom: 50px;
 }
 
 .next-content a:hover {
