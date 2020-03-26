@@ -3,7 +3,7 @@ body {
 }
 
 .navbar-nav li a{
-	font-weight: bold;
+  font-weight: bold;
 }
 
 #about {
@@ -14,21 +14,21 @@ body {
 }
 
 .about-content {
-	text-align: center;
-	padding-top: 100px;
+  text-align: center;
+  padding-top: 100px;
 }
 
 .about-content .intro {
-	font-size: 60px;
+  font-size: 60px;
 }
 
 .about-content .role {
-	font-size: 40px;
-	padding-bottom: 50px;
+  font-size: 40px;
+  padding-bottom: 50px;
 }
 
 .about-content .detail {
-	font-size: 20px;
+  font-size: 20px;
 }
 
 #project {
@@ -39,21 +39,27 @@ body {
 }
 
 .project-content {
-	padding-left: 50px;
-	padding-right: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 .project-content .title {
-	text-align: center;
-	padding-top: 50px;
-	padding-bottom: 50px;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 .project-content .item {
-	padding: 20px;
-	margin-bottom: 30px;
-	border: solid 1px lightgrey;
-	text-align: justify;
+  padding: 20px;
+  margin-bottom: 30px;
+  border: solid 1px lightgrey;
+  text-align: justify;
+}
+
+.project-content .tool {
+  color: black;
+  background-color: lightgrey;
+  padding: 5px 10px 5px 10px;
 }
 
 #contact {
@@ -64,22 +70,22 @@ body {
 }
 
 .contact-content .title {
-	text-align: center;
-	padding-top: 50px;
+  text-align: center;
+  padding-top: 50px;
 }
 
 .contact-content .item {
-	text-align: center;
-	padding: 50px;
+  text-align: center;
+  padding: 50px;
 }
 
 .next-content {
-	text-align: center;
-	padding-top: 50px;
-	padding-bottom: 50px;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 .next-content a:hover {
-	opacity: 0.5;
+  opacity: 0.5;
 }
 
