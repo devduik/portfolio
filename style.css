@@ -70,12 +70,11 @@ body {
 .contact-content .title {
   text-align: center;
   padding-top: 50px;
-  padding-bottom: 50px;
 }
 
 .contact-content .item {
   text-align: center;
-  padding-bottom: 50px;
+  padding-top: 50px;
 }
 
 .next-content {
