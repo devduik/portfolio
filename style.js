@@ -1,5 +1,7 @@
 $(document).ready(function(){
-  $('body').scrollspy({target: ".navbar", offset: 50});   
+  $('body').scrollspy({target: ".navbar", offset: 50});
+  
+  $('[data-toggle="tooltip"]').tooltip();
 
   $("#myNavbar a").on('click', function(event) {
     if (this.hash !== "") {
