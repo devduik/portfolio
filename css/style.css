@@ -1,99 +1,100 @@
-body {  
-  position: relative; 
+body {
+	position: relative; 
 }
 
 .navbar-nav li a{
-  font-weight: bold;
+	font-weight: bold;
 }
 
 #about {
-  padding-top: 50px;
-  height: auto;
-  color: #fff;
-  background-color: #0B3C66;
+	padding-top: 50px;
+	height: auto;
+	color: #fff;
+	background-color: #0B3C66;
 }
 
 .about-content {
-  text-align: center;
-  padding-top: 100px;
+	text-align: center;
+	padding-top: 100px;
 }
 
 .about-content .intro {
-  font-size: 60px;
+	font-size: 60px;
 }
 
 .about-content .role {
-  font-size: 40px;
-  padding-bottom: 50px;
+	font-size: 40px;
+	padding-bottom: 50px;
 }
 
 .about-content .detail {
-  font-size: 20px;
+	font-size: 20px;
 }
 
 #project {
-  padding-top: 50px;
-  height: auto;
-  color: #212529;
-  background-color: #eee;
+	padding-top: 50px;
+	height: auto;
+	color: #212529;
+	background-color: #eee;
 }
 
 .project-content .title {
-  text-align: center;
-  padding-top: 50px;
-  padding-bottom: 50px;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
 }
 
 .project-content .item {
-  padding: 20px;
-  margin-bottom: 30px;
-  border: solid 1px lightgrey;
-  border-radius: 10px;
+	background-color: white-smoke;
+	padding: 20px;
+	margin-bottom: 30px;
+	border: solid 1px lightgrey;
+	border-radius: 10px;
 }
 
 .project-content .item:hover {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .project-content .main {
-  cursor: pointer;
-  padding-bottom: 10px;
+	cursor: pointer;
+	padding-bottom: 10px;
 }
 
 .project-content .detail {
-  text-align: justify;
+	text-align: justify;
 }
 
 .project-content .tool {
-  color: black;
-  background-color: lightgrey;
-  padding: 5px 10px 5px 10px;
+	color: black;
+	background-color: lightgrey;
+	padding: 5px 10px 5px 10px;
 }
 
 #contact {
-  padding-top: 50px;
-  height: auto;
-  color: #fff;
-  background-color: #343a40;
+	padding-top: 50px;
+	height: auto;
+	color: #fff;
+	background-color: #343a40;
 }
 
 .contact-content .title {
-  text-align: center;
-  padding-top: 50px;
+	text-align: center;
+	padding-top: 50px;
 }
 
 .contact-content .item {
-  text-align: center;
-  padding-top: 50px;
+	text-align: center;
+	padding-top: 50px;
 }
 
 .next-content {
-  text-align: center;
-  padding-top: 50px;
-  padding-bottom: 50px;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
 }
 
 .next-content a:hover {
-  opacity: 0.5;
+	opacity: 0.5;
 }
 
