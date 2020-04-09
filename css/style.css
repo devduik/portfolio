@@ -74,9 +74,11 @@ body {
 }
 
 .project-content .item-info .tool {
+	display: inline-block;
 	color: black;
 	background-color: lightgrey;
 	padding: 5px 10px 5px 10px;
+	margin-bottom: 5px;
 }
 
 #contact {
