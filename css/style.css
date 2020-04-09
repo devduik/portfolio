@@ -56,16 +56,24 @@ body {
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-.project-content .main {
+.project-content .item-main {
 	cursor: pointer;
-	padding-bottom: 10px;
 }
 
-.project-content .detail {
+.project-content .item-title {
+	margin-top: 0px;
+}
+
+.project-content .item-detail {
+	padding-top: 15px;
 	text-align: justify;
 }
 
-.project-content .tool {
+.project-content .item-info {
+	padding-top: 15px;
+}
+
+.project-content .item-info .tool {
 	color: black;
 	background-color: lightgrey;
 	padding: 5px 10px 5px 10px;
