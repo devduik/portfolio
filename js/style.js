@@ -30,7 +30,7 @@ $(document).ready(function () {
 
       let tools = "";
       $.each(project.tool, function (i, tool) {
-        tools += '<a href="#" class="tool">' + tool + '</a> ';
+        tools += '<a class="tool">' + tool + '</a> ';
       });
 
       $('.project_list').append(`
