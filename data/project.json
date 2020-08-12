@@ -56,7 +56,7 @@
         "id": 4,
         "name": "D-Cashier",
         "type": "Company Project",
-        "title": "Bill Management System",
+        "title": "Billing & Payments System",
         "description": "D-Cashier is a system for making payments for retail businesses owned by Dimata IT Solution. This system work together with ProChain for handling the selling process of items. It provides information about all items and their prices and count the tax and service if avalable. Not only for making payments, it also can make bill for return item or even split the bills for many kind of reason.",
         "role": [
             "Develop the system for additional features based on client's requirements.",
@@ -85,6 +85,23 @@
             "Java",
             "jQuery",
             "Bootstrap",
+            "MySQL"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Hairisma",
+        "type": "Company Project",
+        "title": "Human Resource Management System",
+        "description": "Hairisma is an HR management system owned by Dimata IT Solution. It helps user to manage employees data including employees attendance, paid leave and salary calculation. This system provides feature for creating formulas for salary calculation based on various type of parameters and also provide customs reports for it.",
+        "role": [
+            "Develop additional features and report based on client's requirements.",
+            "Bug fixing and problem solving."
+        ],
+        "tool": [
+            "Java",
+            "Javascript",
+            "Apache Poi",
             "MySQL"
         ]
     }
