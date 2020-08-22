@@ -69,40 +69,5 @@
             "Bootstrap",
             "MySQL"
         ]
-    },
-    {
-        "id": 5,
-        "name": "InTans",
-        "type": "Company Project",
-        "title": "Tax Calculation & Tapping System",
-        "description": "InTans is a tax calculation system owned by Dimata IT Solution. It has the ability to collect transaction data automatically from local businesses and deliver it to the local government to be calculated. This system is made for businesses that potentially produce taxes to the local governments such as hotel and restaurant.",
-        "role": [
-            "Designed the system to collect data automatically.",
-            "Connect the system between local business and the local government.",
-            "Provide report of the tax revenue for the local government."
-        ],
-        "tool": [
-            "Java",
-            "jQuery",
-            "Bootstrap",
-            "MySQL"
-        ]
-    },
-    {
-        "id": 6,
-        "name": "Hairisma",
-        "type": "Company Project",
-        "title": "Human Resource Management System",
-        "description": "Hairisma is an HR management system owned by Dimata IT Solution. It helps user to manage employees data including employees attendance, paid leave and salary calculation. This system provides feature for creating formulas for salary calculation based on various type of parameters and also provide customs reports for it.",
-        "role": [
-            "Develop additional features and report based on client's requirements.",
-            "Bug fixing and problem solving."
-        ],
-        "tool": [
-            "Java",
-            "Javascript",
-            "Apache Poi",
-            "MySQL"
-        ]
     }
 ]
