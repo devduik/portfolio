@@ -40,7 +40,7 @@ $(document).ready(function () {
   
                             <i>~ `+ project.title + `</i>
   
-                            <div id="project`+ project.id + `" class="collapse">
+                            <div id="project`+ project.id + `" class="collapse in">
                                 <p class="item-detail">`+ project.description + `</p>
                                 <label>My role:</label>
                                 <ul>`+ roles + `</ul>
