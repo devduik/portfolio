@@ -103,7 +103,7 @@ body {
 
 .contact-content hr {
 	width: 230px;
-	border: 2px solid;
+	border: 2px solid #eee;
 }
 .contact-content .item {
 	text-align: center;
