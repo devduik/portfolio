@@ -8,7 +8,7 @@ body {
 
 #about {
 	padding-top: 50px;
-	height: auto;
+	min-height: 700px;
 	color: #fff;
 	background-color: #0B3C66;
 }
@@ -19,11 +19,11 @@ body {
 }
 
 .about-content .intro {
-	font-size: 60px;
+	font-size: 50px;
 }
 
 .about-content .role {
-	font-size: 40px;
+	font-size: 30px;
 	padding-bottom: 50px;
 }
 
@@ -44,8 +44,8 @@ body {
 }
 
 .project-content hr {
-	width: 220px;
-	border: 2px solid #343a40;
+	width: 250px;
+	border-top: 3px solid #343a40;
 }
 
 .project_list {
@@ -102,8 +102,8 @@ body {
 }
 
 .contact-content hr {
-	width: 230px;
-	border: 2px solid #eee;
+	width: 250px;
+	border-top: 3px solid #eee;
 }
 .contact-content .item {
 	text-align: center;
