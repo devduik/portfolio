@@ -41,7 +41,15 @@ body {
 .project-content .title {
 	text-align: center;
 	padding-top: 50px;
-	padding-bottom: 50px;
+}
+
+.project-content hr {
+	width: 220px;
+	border: 2px solid #343a40;
+}
+
+.project_list {
+	padding-top: 50px;
 }
 
 .project-content .item {
@@ -93,6 +101,10 @@ body {
 	padding-top: 50px;
 }
 
+.contact-content hr {
+	width: 230px;
+	border: 2px solid;
+}
 .contact-content .item {
 	text-align: center;
 	padding-top: 50px;
