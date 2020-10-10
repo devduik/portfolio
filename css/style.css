@@ -10,12 +10,20 @@ body {
 	padding-top: 50px;
 	min-height: 700px;
 	color: #fff;
-	background-color: #0B3C66;
+	background-color: #000000;
+}
+
+.bg {
+	background-image: url("../img/laptop.jpg");
+	height: 100%;
+	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
 }
 
 .about-content {
 	text-align: center;
-	padding-top: 100px;
+	padding-top: 50px;
 }
 
 .about-content .intro {
@@ -23,7 +31,7 @@ body {
 }
 
 .about-content .role {
-	font-size: 30px;
+	font-size: 26px;
 	padding-bottom: 50px;
 }
 
@@ -31,21 +39,68 @@ body {
 	font-size: 20px;
 }
 
+#about .next-content a {
+	color: #eee;
+}
+
+#skill {
+	padding-top: 50px;
+	min-height: 700px;
+	color: #363636;
+	background-color: #f0f0f0;
+}
+
+.skill-content .title {
+	text-align: center;
+	font-weight: bold;
+	padding-top: 50px;
+}
+
+.skill-content hr {
+	width: 250px;
+	border-top: 3px solid #4b4d4e;
+}
+
+.skill-content .subtitle {
+	text-align: center;
+	padding-top: 30px;
+}
+
+.skill-content .skill_list {
+	text-align: center;
+	font-weight: bold;
+	padding: 0px 50px 0px 50px;
+}
+
+.skill-content .skill_list div {
+	padding: 30px 0px 0px 0px;
+}
+
+.skill-content .skill_list img {
+	width: 50px;
+	height: 50px;
+}
+
+#skill .next-content a {
+	color: #b3b3b3;
+}
+
 #project {
 	padding-top: 50px;
-	height: auto;
-	color: #212529;
-	background-color: #eee;
+	min-height: 700px;
+	color: #363636;
+	background-color: #ddd;
 }
 
 .project-content .title {
 	text-align: center;
+	font-weight: bold;
 	padding-top: 50px;
 }
 
 .project-content hr {
 	width: 250px;
-	border-top: 3px solid #343a40;
+	border-top: 3px solid #4b4d4e;
 }
 
 .project_list {
@@ -53,7 +108,7 @@ body {
 }
 
 .project-content .item {
-	background-color: whitesmoke;
+	background-color: #eaeaea;
 	padding: 20px;
 	margin-bottom: 30px;
 	border: solid 1px lightgrey;
@@ -91,15 +146,20 @@ body {
 	margin-bottom: 5px;
 }
 
+#project .next-content a {
+	color: #a7a7a7;
+}
+
 #contact {
 	padding-top: 50px;
-	height: auto;
+	min-height: 700px;
 	color: #fff;
 	background-color: #343a40;
 }
 
 .contact-content .title {
 	text-align: center;
+	font-weight: bold;
 	padding-top: 50px;
 }
 
@@ -107,9 +167,14 @@ body {
 	width: 250px;
 	border-top: 3px solid #eee;
 }
+
 .contact-content .item {
 	text-align: center;
 	padding-top: 50px;
+}
+
+#contact .next-content a {
+	color: grey;
 }
 
 .next-content {

@@ -1,0 +1,58 @@
+{
+    "experience": [
+        {
+            "label": "Java",
+            "url": "icon/java.svg"
+        },
+        {
+            "label": "Tomcat",
+            "url": "icon/tomcat.svg"
+        },
+        {
+            "label": "MySQL",
+            "url": "icon/mysql.svg"
+        },
+        {
+            "label": "Git",
+            "url": "icon/git.svg"
+        },
+        {
+            "label": "HTML",
+            "url": "icon/html.svg"
+        },
+        {
+            "label": "CSS",
+            "url": "icon/css.svg"
+        },
+        {
+            "label": "jQuery",
+            "url": "icon/jquery.svg"
+        },
+        {
+            "label": "Bootstrap",
+            "url": "icon/bootstrap.svg"
+        }
+    ],
+    "knowledge": [
+        {
+            "label": "Spring Boot",
+            "url": "icon/spring-boot.svg"
+        },
+        {
+            "label": "Thymeleaf",
+            "url": "icon/thymeleaf.png"
+        },
+        {
+            "label": "Maven",
+            "url": "icon/maven.svg"
+        },
+        {
+            "label": "PHP",
+            "url": "icon/php.svg"
+        },
+        {
+            "label": "Laravel",
+            "url": "icon/laravel.svg"
+        }
+    ]
+}
