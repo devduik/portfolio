@@ -6,41 +6,73 @@ body {
 	font-weight: bold;
 }
 
-#about {
+#home {
 	padding-top: 50px;
 	min-height: 700px;
-	color: #fff;
-	background-color: #000000;
+	color: white;
+	background-color: black;
 }
 
 .bg {
-	background-image: url("../img/laptop.jpg");
+	background-image: url("../img/laptop-blur.jpg");
 	height: 100%;
 	background-position: center;
   	background-repeat: no-repeat;
   	background-size: cover;
 }
 
-.about-content {
+.home-content .panel {
 	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background-color: rgba(255, 255, 255, 0.3);
+}
+
+.home-content .title {
+	font-size: 60px;
 	padding-top: 50px;
 }
 
-.about-content .intro {
-	font-size: 50px;
-}
-
-.about-content .role {
-	font-size: 26px;
+.home-content .role {
+	font-size: 25px;
 	padding-bottom: 50px;
 }
 
+.home-content .coding {
+	text-align: center;
+	font-size: 25px;
+	font-family: Consolas;
+}
+
+#home .next-content a {
+	color: #bbb;
+}
+
+#about {
+	padding-top: 50px;
+	min-height: 700px;
+	color: white;
+	background-color: #043258;
+}
+
+.about-content hr {
+	width: 250px;
+	border-top: 3px solid #fff;
+}
+
+.about-content .intro {
+	text-align: center;
+	font-size: 30px;
+	padding-top: 50px;
+}
+
 .about-content .detail {
+	text-align: center;
 	font-size: 20px;
 }
 
 #about .next-content a {
-	color: #eee;
+	color: #bbb;
 }
 
 #skill {
@@ -48,12 +80,6 @@ body {
 	min-height: 700px;
 	color: #363636;
 	background-color: #f0f0f0;
-}
-
-.skill-content .title {
-	text-align: center;
-	font-weight: bold;
-	padding-top: 50px;
 }
 
 .skill-content hr {
@@ -82,20 +108,14 @@ body {
 }
 
 #skill .next-content a {
-	color: #b3b3b3;
+	color: #ccc;
 }
 
 #project {
 	padding-top: 50px;
 	min-height: 700px;
 	color: #363636;
-	background-color: #ddd;
-}
-
-.project-content .title {
-	text-align: center;
-	font-weight: bold;
-	padding-top: 50px;
+	background-color: #dddddd;
 }
 
 .project-content hr {
@@ -103,7 +123,7 @@ body {
 	border-top: 3px solid #4b4d4e;
 }
 
-.project_list {
+.project-content .project_list {
 	padding-top: 50px;
 }
 
@@ -147,20 +167,14 @@ body {
 }
 
 #project .next-content a {
-	color: #a7a7a7;
+	color: #bbb;
 }
 
 #contact {
 	padding-top: 50px;
 	min-height: 700px;
-	color: #fff;
+	color: #ffffff;
 	background-color: #343a40;
-}
-
-.contact-content .title {
-	text-align: center;
-	font-weight: bold;
-	padding-top: 50px;
 }
 
 .contact-content hr {
@@ -175,6 +189,12 @@ body {
 
 #contact .next-content a {
 	color: grey;
+}
+
+.content-title {
+	text-align: center;
+	font-weight: bold;
+	padding-top: 50px;
 }
 
 .next-content {

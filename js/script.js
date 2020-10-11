@@ -1,8 +1,18 @@
 $(document).ready(function () {
 
-    $('body').scrollspy({ target: ".navbar", offset: 50 });
+    var cursor = true;
+    var speed = 500;
+    setInterval(() => {
+        if (cursor) {
+            document.getElementById('cursor').style.opacity = 0;
+            cursor = false;
+        } else {
+            document.getElementById('cursor').style.opacity = 1;
+            cursor = true;
+        }
+    }, speed);
 
-    $('[data-toggle="tooltip"]').tooltip();
+    $('body').scrollspy({ target: ".navbar", offset: 50 });
 
     $("#myNavbar a").on('click', function (event) {
         if (this.hash !== "") {
