@@ -13,10 +13,6 @@
             "url": "icon/mysql.svg"
         },
         {
-            "label": "Git",
-            "url": "icon/git.svg"
-        },
-        {
             "label": "HTML",
             "url": "icon/html.svg"
         },
@@ -25,12 +21,20 @@
             "url": "icon/css.svg"
         },
         {
+            "label": "JavaScript",
+            "url": "icon/javascript.svg"
+        },
+        {
             "label": "jQuery",
             "url": "icon/jquery.svg"
         },
         {
             "label": "Bootstrap",
             "url": "icon/bootstrap.svg"
+        },
+        {
+            "label": "Git",
+            "url": "icon/git.svg"
         }
     ],
     "knowledge": [

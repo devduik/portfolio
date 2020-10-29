@@ -1,17 +1,5 @@
 $(document).ready(function () {
 
-    var cursor = true;
-    var speed = 500;
-    setInterval(() => {
-        if (cursor) {
-            document.getElementById('cursor').style.opacity = 0;
-            cursor = false;
-        } else {
-            document.getElementById('cursor').style.opacity = 1;
-            cursor = true;
-        }
-    }, speed);
-
     $('body').scrollspy({ target: ".navbar", offset: 50 });
 
     $("#myNavbar a").on('click', function (event) {
@@ -29,7 +17,7 @@ $(document).ready(function () {
         var experience = data.experience;
         $.each(experience, function (i, skill) {
             $('.experience_list').append(`
-                <div class="col-sm-3">
+                <div class="col-sm-4">
                     <img src="` + skill.url + `" alt="` + skill.label + `">
                     <p>`+ skill.label + `</p>
                 </div>
@@ -40,7 +28,7 @@ $(document).ready(function () {
         var knowledge = data.knowledge;
         $.each(knowledge, function (i, skill) {
             $('.knowledge_list').append(`
-                <div class="col-sm-3">
+                <div class="col-sm-4">
                     <img src="` + skill.url + `" alt="` + skill.label + `">
                     <p>`+ skill.label + `</p>
                 </div>

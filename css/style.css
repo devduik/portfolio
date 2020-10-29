@@ -8,6 +8,7 @@ body {
 
 #home {
 	padding-top: 50px;
+	padding-bottom: 50px;
 	min-height: 700px;
 	color: white;
 	background-color: black;
@@ -44,6 +45,7 @@ body {
 
 #about {
 	padding-top: 50px;
+	padding-bottom: 50px;
 	min-height: 700px;
 	color: white;
 	background-color: #042450;
@@ -71,6 +73,7 @@ body {
 
 #skill {
 	padding-top: 50px;
+	padding-bottom: 50px;
 	min-height: 700px;
 	color: #363636;
 	background-color: #f0f0f0;
@@ -107,6 +110,7 @@ body {
 
 #project {
 	padding-top: 50px;
+	padding-bottom: 50px;
 	min-height: 700px;
 	color: #363636;
 	background-color: #dddddd;
@@ -117,7 +121,7 @@ body {
 	border-top: 3px solid #4b4d4e;
 }
 
-.project-content .project_list {
+.project-content .row {
 	padding-top: 50px;
 }
 
@@ -128,12 +132,6 @@ body {
 	border: solid 1px lightgrey;
 	border-radius: 10px;
 }
-
-/*
-.project-content .item:hover {
-	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
-*/
 
 .project-content .item-main {
 	cursor: pointer;
@@ -166,6 +164,7 @@ body {
 
 #contact {
 	padding-top: 50px;
+	padding-bottom: 50px;
 	min-height: 700px;
 	color: #ffffff;
 	background-color: #343a40;
@@ -179,6 +178,10 @@ body {
 .contact-content .item {
 	text-align: center;
 	padding-top: 50px;
+}
+
+#contact .next-content {
+	margin-top: 100px;
 }
 
 #contact .next-content a {
