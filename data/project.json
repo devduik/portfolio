@@ -27,7 +27,7 @@
             "title": "Retail System & Distribution",
             "description": "ProChain is a retail system owned by Dimata IT Solution. Made for handling stock counting and distribution. Provides records of item distribution flow from receive documents to sales report. Designed for many kind of retail business such as shop, restaurant, warehouse, etc.",
             "role": [
-                "Put additional features based on client's requirements.",
+                "Add additional features based on client's requirements.",
                 "Bug fixing and problem solving.",
                 "Maintain the system to provides valid data for reporting."
             ],
@@ -48,7 +48,7 @@
             "title": "Billing & Payment System",
             "description": "D-Cashier is a system for making payments for retail businesses owned by Dimata IT Solution. This system work together with ProChain for handling the selling process of all the item. It provides information about all item and their price and count the tax and service if available. Not only for making payments, it also can make bill for return item or even split the bills for many kind of reason.",
             "role": [
-                "Put additional features based on client's requirements.",
+                "Add additional features based on client's requirements.",
                 "Bug fixing and problem solving.",
                 "Make sure the system can handle the counting process correctly so it can provide the valid data to create a balance journals for the accountants."
             ],
@@ -66,8 +66,8 @@
             "id": 4,
             "name": "Sedana",
             "type": "Commercial",
-            "title": "Savings & Loan Management System",
-            "description": "Sedana is a savings and loans information system owned by Dimata IT Solution. This application helps micro-credit businesses to record loans and also savings for their customers. This application is made based on standard rules for the savings and loans business.",
+            "title": "Savings & Loans Management System",
+            "description": "Sedana is a savings and loans information system owned by Dimata IT Solution. This application helps micro-credit businesses to record savings and loans for their customers. This application is made based on common standard rules for savings and loans business but still can be customize.",
             "role": [
                 "Designed the system to handle various kind of savings and loans requirements based on client's request.",
                 "Create feature to records all activities that happened in the system.",

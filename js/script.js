@@ -54,12 +54,13 @@ $(document).ready(function () {
             $('.list-' + sufix).append(`
     
                 <div class="item">
-                
-                    <div class="item-main" data-toggle="collapse" data-target="#project`+ project.id + `">
-                        <i class="fas fa-angle-down fa-2x pull-right" style="color: #bbb"></i>
-                        <h3 class="item-title">`+ project.name + ` <small>(` + project.type + `)</small></h3>
 
-                        <i>`+ project.title + `</i>
+                    <div>
+                        <div class="item-title" data-toggle="collapse" data-target="#project`+ project.id + `">
+                            <i class="fas fa-angle-down fa-2x pull-right" style="color: #bbb"></i>
+                            <h3 class="item-title">`+ project.name + ` <small>(` + project.type + `)</small></h3>
+                            <i>`+ project.title + `</i>
+                        </div>
 
                         <div id="project`+ project.id + `" class="collapse out">
                             <p class="item-detail">`+ project.description + `</p>

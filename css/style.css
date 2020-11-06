@@ -133,7 +133,7 @@ body {
 	border-radius: 10px;
 }
 
-.project-content .item-main {
+.project-content .item-title {
 	cursor: pointer;
 }
 
@@ -142,8 +142,10 @@ body {
 }
 
 .project-content .item-detail {
-	padding-top: 15px;
+	padding-top: 10px;
 	text-align: justify;
+	border-top: solid 1px lightgrey;
+	margin-top: 10px;
 }
 
 .project-content .item-info {
