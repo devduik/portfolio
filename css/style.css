@@ -154,8 +154,9 @@ body {
 	display: inline-block;
 	color: black;
 	background-color: lightgrey;
-	padding: 5px 10px 5px 10px;
+	padding: 4px 8px 4px 8px;
 	margin-bottom: 5px;
+	font-size: 13px;
 }
 
 #project .next-content a {

@@ -69,7 +69,7 @@ $(document).ready(function () {
                     </div>
                 
                     <div class="item-info">
-                        <span>Build with:</span>
+                        <span>Made with:</span>
                         `+ tools + `
                     </div>
                 

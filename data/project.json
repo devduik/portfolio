@@ -2,6 +2,26 @@
     "company": [
         {
             "id": 1,
+            "name": "Hanoman Outlet",
+            "type": "Commercial",
+            "title": "Reservation & Schedule Management",
+            "description": "Hanoman Outlet is a booking system owned by Dimata IT Solution. It shows information of all available room and person-in-charge at specific time for service products. This information is used to create schedule for treatment. It also provides the ability to manage the reservation process from the start to the end of the treatment. It is currently designed for spa business.",
+            "role": [
+                "Design the system to be able to manage treatment schedule.",
+                "Make sure the system provides valid information for available treatment."
+            ],
+            "tool": [
+                "Java",
+                "JSP",
+                "Servlet",
+                "jQuery",
+                "AJAX",
+                "Bootstrap",
+                "MySQL"
+            ]
+        },
+        {
+            "id": 2,
             "name": "ProChain",
             "type": "Commercial",
             "title": "Retail System & Distribution",
@@ -13,48 +33,16 @@
             ],
             "tool": [
                 "Java",
+                "JSP",
+                "Servlet",
                 "jQuery",
-                "Bootstrap",
-                "MySQL"
-            ]
-        },
-        {
-            "id": 2,
-            "name": "Hanoman Outlet",
-            "type": "Commercial",
-            "title": "Reservation & Schedule Management",
-            "description": "Hanoman Outlet is a booking system owned by Dimata IT Solution. It shows information of all available room and person-in-charge at specific time for service products. This information is used to create schedule for treatment. It also provides the ability to manage the reservation process from the start to the end of the treatment. It is currently designed for spa business.",
-            "role": [
-                "Design the system to be able to manage treatment schedule.",
-                "Make sure the system provides valid information for available treatment."
-            ],
-            "tool": [
-                "Java",
-                "jQuery",
+                "AJAX",
                 "Bootstrap",
                 "MySQL"
             ]
         },
         {
             "id": 3,
-            "name": "Sedana",
-            "type": "Commercial",
-            "title": "Savings & Loan Management System",
-            "description": "Sedana is a savings and loan information system owned by Dimata IT Solution. This application helps micro-credit businesses to record loans and also savings for their customers. This application is made based on standard rules for the savings and loan business.",
-            "role": [
-                "Designed the system to handle various kind of savings and loan requirements.",
-                "Provides feature to shows the flows of the transactions.",
-                "Make sure the system give the precise calculation result for the interest value since it manages money."
-            ],
-            "tool": [
-                "Java",
-                "jQuery",
-                "Bootstrap",
-                "MySQL"
-            ]
-        },
-        {
-            "id": 4,
             "name": "D-Cashier",
             "type": "Commercial",
             "title": "Billing & Payment System",
@@ -66,7 +54,31 @@
             ],
             "tool": [
                 "Java",
+                "JSP",
+                "Servlet",
                 "jQuery",
+                "AJAX",
+                "Bootstrap",
+                "MySQL"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Sedana",
+            "type": "Commercial",
+            "title": "Savings & Loan Management System",
+            "description": "Sedana is a savings and loans information system owned by Dimata IT Solution. This application helps micro-credit businesses to record loans and also savings for their customers. This application is made based on standard rules for the savings and loans business.",
+            "role": [
+                "Designed the system to handle various kind of savings and loans requirements based on client's request.",
+                "Create feature to records all activities that happened in the system.",
+                "Make sure the system gives the precise calculation result for the interest value since it manages money."
+            ],
+            "tool": [
+                "Java",
+                "JSP",
+                "Servlet",
+                "jQuery",
+                "AJAX",
                 "Bootstrap",
                 "MySQL"
             ]
