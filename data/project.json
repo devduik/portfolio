@@ -5,10 +5,11 @@
             "name": "Hanoman Outlet",
             "type": "Commercial",
             "title": "Reservation & Schedule Management",
-            "description": "Hanoman Outlet is a booking system owned by Dimata IT Solution. It shows information of all available room and person-in-charge at specific time for service products. This information is used to create schedule for treatment. It also provides the ability to manage the reservation process from the start to the end of the treatment. It is currently designed for spa business.",
+            "description": "Hanoman Outlet is a booking system owned by Dimata IT Solution. Designed to show information about product availability by checking the availability of the room and person-in-charge at specific date and time. This information will be used to create schedule for service products. It also provides the ability to manage the reservation process and show the status of an on-going service. This system is currently designed for spa business.",
             "role": [
-                "Design the system to be able to manage treatment schedule.",
-                "Make sure the system provides valid information for available treatment."
+                "Develop the system together with the team to provides valid information of available products.",
+                "Develop reservation feature including generate the schedule, choosing the room and counting the price automatically based on service time duration.",
+                "Develop feature for user to modify the schedule such as changing the room, person-in-charge or time duration for many kind of reason."
             ],
             "tool": [
                 "Java",
@@ -25,11 +26,11 @@
             "name": "ProChain",
             "type": "Commercial",
             "title": "Retail System & Distribution",
-            "description": "ProChain is a retail system owned by Dimata IT Solution. Made for handling stock counting and distribution. Provides records of item distribution flow from receive documents to sales report. Designed for many kind of retail business such as shop, restaurant, warehouse, etc.",
+            "description": "ProChain is a retail system owned by Dimata IT Solution. Designed for handling stock counting and distribution. Provides records of item distribution flow from receive documents to sales report. Designed for many kind of retail business such as shop, restaurant, warehouse, etc.",
             "role": [
-                "Add additional features based on client's requirements.",
-                "Bug fixing and problem solving.",
-                "Maintain the system to provides valid data for reporting."
+                "Develop additional features based on client's requirements.",
+                "Make sure the system provides valid stock data for reporting.",
+                "Bug fixing and problem solving."
             ],
             "tool": [
                 "Java",
@@ -46,11 +47,11 @@
             "name": "D-Cashier",
             "type": "Commercial",
             "title": "Billing & Payment System",
-            "description": "D-Cashier is a system for making payments for retail businesses owned by Dimata IT Solution. This system work together with ProChain for handling the selling process of all the item. It provides information about all item and their price and count the tax and service if available. Not only for making payments, it also can make bill for return item or even split the bills for many kind of reason.",
+            "description": "D-Cashier is a system for making bills and payments for retail businesses owned by Dimata IT Solution. This system work together with ProChain for handling the selling process of the item. It provides information about item price and count the discount, tax and service if available. Not only for making bills and payments of good sold, it also can make bill for return item or even split the bills for many kind of reason.",
             "role": [
-                "Add additional features based on client's requirements.",
-                "Bug fixing and problem solving.",
-                "Make sure the system can handle the counting process correctly so it can provide the valid data to create a balance journals for the accountants."
+                "Develop additional features based on client's requirements.",
+                "Make sure the system count price correctly to generate balance journals for the accountants.",
+                "Bug fixing and problem solving."
             ],
             "tool": [
                 "Java",
@@ -67,11 +68,11 @@
             "name": "Sedana",
             "type": "Commercial",
             "title": "Savings & Loans Management System",
-            "description": "Sedana is a savings and loans information system owned by Dimata IT Solution. This application helps micro-credit businesses to record savings and loans for their customers. This application is made based on common standard rules for savings and loans business but still can be customize.",
+            "description": "Sedana is a savings and loans information system owned by Dimata IT Solution. Designed to helps micro-credit business to record savings and loans transactions for their customers and provides the information they need for further action. Not only for recording data, it also has features that help the user to simplify the process by automatically generate data they need such as payment schedule of loans. This application is made by following the common standard rules for savings and loans business, but still can be customize based on client's need.",
             "role": [
-                "Designed the system to handle various kind of savings and loans requirements based on client's request.",
-                "Create feature to records all activities that happened in the system.",
-                "Make sure the system gives the precise calculation result for the interest value since it manages money."
+                "Develop the system together with the team to handle various kind of savings and loans requirements based on client's request.",
+                "Make sure the system gives the precise calculation result for the interest value to prevent money lost.",
+                "Make sure the system provide all the information that needed about all activity that happened in the system so the user can compare it with the reports."
             ],
             "tool": [
                 "Java",

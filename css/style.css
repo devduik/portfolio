@@ -148,6 +148,15 @@ body {
 	margin-top: 10px;
 }
 
+.project-content ul {
+	padding-left: 20px;
+}
+
+.project-content ul li {
+	text-align: justify;
+	padding-bottom: 5px;
+}
+
 .project-content .item-info {
 	padding-top: 15px;
 }
