@@ -29,8 +29,8 @@
             "description": "ProChain is a retail system owned by Dimata IT Solution. Designed for handling stock counting and distribution. Provides records of item distribution flow from receive documents to sales report. Designed for many kind of retail business such as shop, restaurant, warehouse, etc.",
             "role": [
                 "Develop additional features based on client's requirements.",
-                "Make sure the system provides valid stock data for reporting.",
-                "Bug fixing and problem solving."
+                "Bug fixing and problem solving.",
+                "Make sure the system provides valid stock data for reporting."
             ],
             "tool": [
                 "Java",
@@ -50,8 +50,8 @@
             "description": "D-Cashier is a system for making bills and payments for retail businesses owned by Dimata IT Solution. This system work together with ProChain for handling the selling process of the item. It provides information about item price and count the discount, tax and service if available. Not only for making bills and payments of good sold, it also can make bill for return item or even split the bills for many kind of reason.",
             "role": [
                 "Develop additional features based on client's requirements.",
-                "Make sure the system count price correctly to generate balance journals for the accountants.",
-                "Bug fixing and problem solving."
+                "Bug fixing and problem solving.",
+                "Make sure the system count price correctly to generate balance journals for the accountants."
             ],
             "tool": [
                 "Java",
