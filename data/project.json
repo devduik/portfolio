@@ -26,7 +26,7 @@
             "name": "ProChain",
             "type": "Commercial",
             "title": "Retail System & Distribution",
-            "description": "ProChain is a retail system owned by Dimata IT Solution. Designed for handling stock counting and distribution. Provides records of item distribution flow from receive documents to sales report. Designed for many kind of retail business such as shop, restaurant, warehouse, etc.",
+            "description": "ProChain is a retail system owned by Dimata IT Solution. Designed for handling stock counting and distribution. Provides records of item distribution flow from receive process to sales report. This information help user to see status of every item they have in term of stock quantity so the user can decide wether to do some purchase or just to see current status of all sold items. Designed for many kind of retail business such as shop, restaurant, warehouse, etc.",
             "role": [
                 "Develop additional features based on client's requirements.",
                 "Bug fixing and problem solving.",
