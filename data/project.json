@@ -68,7 +68,7 @@
             "name": "Sedana",
             "type": "Commercial",
             "title": "Savings & Loans Management System",
-            "description": "Sedana is a savings and loans information system owned by Dimata IT Solution. Designed to helps micro-credit business to record savings and loans transactions for their customers and provides the information they need for further action. Not only for recording data, it also has features that help the user to simplify the process by automatically generate data they need such as payment schedule of loans. This application is made by following the common standard rules for savings and loans business, but still can be customize based on client's need.",
+            "description": "Sedana is a savings and loans information system owned by Dimata IT Solution. Designed to helps micro-credit business to record savings and loans transactions for their customers and provides the information they need for further action. Not only for record data, it also has features that help users to simplify the process by automatically generate data they need such as payment schedule and the interest. This application is made by following the common standard rules for savings and loans business, but still can be customize based on client's need.",
             "role": [
                 "Develop the system together with the team to handle various kind of savings and loans requirements based on client's request.",
                 "Make sure the system gives the precise calculation result for the interest value to prevent money lost.",
