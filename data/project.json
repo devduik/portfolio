@@ -47,7 +47,7 @@
             "name": "D-Cashier",
             "type": "Commercial",
             "title": "Billing & Payment System",
-            "description": "D-Cashier is a system for making bills and payments for retail businesses owned by Dimata IT Solution. This system work together with ProChain for handling the selling process of the item. It provides information about item price and count the discount, tax and service if available. Not only for making bills and payments of good sold, it also can make bill for return item or even split the bills for many kind of reason.",
+            "description": "D-Cashier is a cashier system for making bills and payments for retail businesses owned by Dimata IT Solution. This system work together with ProChain for handling the selling process of the item. It provides information about item price and count the discount, tax and service if available. Not only for making bills and payments of good sold, it also can make bill for return item or even split the bills for many kind of reason.",
             "role": [
                 "Develop additional features based on client's requirements.",
                 "Bug fixing and problem solving.",
